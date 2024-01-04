@@ -15,10 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Create  a .env file in the root directory of the project and add the following
-
-```
-RAPID_API_APP_KEY=YOUR_RAPID_API_APP_KEY
-RAPID_API_HOST=YOUR_RAPID_API_HOST
-```
 ## Get your key from https://rawg.io/apidocs
