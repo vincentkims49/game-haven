@@ -16,3 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Get your key from https://rawg.io/apidocs
+
+# Screenshots
+<img height="600em"   src="https://github.com/vincentkims49/game-haven/blob/main/screenshots/flutter_01.png" align="center" style="width: 50 height: 100" /><img height="600em"   src="https://github.com/vincentkims49/game-haven/blob/main/screenshots/flutter_02.png" align="center" style="width: 50 height: 100" /><img height="600em"   src="https://github.com/vincentkims49/game-haven/blob/main/screenshots/flutter_03.png" align="center" style="width: 50 height: 100" />
+
+
